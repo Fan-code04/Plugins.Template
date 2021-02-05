@@ -1,2 +1,2 @@
 # Plugins.Template
-A template for plufin PocketMine-MP
+A template for plugin PocketMine-MP
