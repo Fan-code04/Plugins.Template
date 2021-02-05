@@ -1,0 +1,5 @@
+name: PluginName
+author: AuthorName
+api: [3.0.0]
+version: 1.0
+main: PluginName\AuthorName\Main
